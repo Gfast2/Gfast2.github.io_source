@@ -1,0 +1,9 @@
+site_name: gao-su.com
+
+pages:
+    - Home: index.md
+    - Projects: projects.md
+    - About: about.md
+    - MkDocs: mkdocs.md
+
+theme: readthedocs
