@@ -7,9 +7,10 @@ He is good at designing/engineering electronic circuit, mechanical machine, µC 
 <hr />
 
 <ul>
- 	<li>2014 until now – freelancing Designer</li>
- 	<li>2014 graduation in Multimedia Design</li>
- 	<li>2013 internship at Hanke+Schwandt, freelancer (Physical computing based media)</li>
+ 	<li>2016 until now – Full time Web developer, <a href="http://www.interautomation.de/de/" target="_blank">INTERAUTOMATION GmbH,Berlin</a></li>
+ 	<li>2014-2015 – freelancing Designer</li>
+ 	<li>2014 graduation in Multimedia Design (Master of Art)</li>
+ 	<li>2013 internship at <a href="http://www.pluslab.de" target="_blank">Hanke+Schwandt</a>, freelancer (Physical computing based media)</li>
  	<li>2009 student – Multimedia Design – Burg Giebichenstein Halle</li>
  	<li>2005 student – Industrial Design – University Northeast Forestry</li>
  	<li>1986 born in Da Lian</li>
@@ -30,7 +31,7 @@ He is good at designing/engineering electronic circuit, mechanical machine, µC 
 <hr />
 
 <ul>
- 	<li><a href="http://localhost/wordpress/about/portrate-sugao/" rel="attachment wp-att-215"><img class="alignnone size-medium wp-image-215" src="http://localhost/wordpress/wp-content/uploads/2015/09/Portrate-SuGao-200x300.jpg" alt="Portraits" width="150" height="200" /></a></li>
- 	<li><a href="http://localhost/wordpress/wp-content/uploads/2014/11/Lebenslauf-SuGao-SoftwareDeveloper.pdf">CV</a></li>
- 	<li><a href="http://localhost/wordpress/wp-content/uploads/2015/09/Portfolio-SuGao_2015_HiReso.pdf">Portfolio (German)</a></li>
+ 	<li><a href="../img/Portrate-SuGao.jpg" target="_blank"><img class="alignnone size-medium wp-image-215" src="../img/Portrate-SuGao.jpg" alt="Portraits" width="150" height="200" attributes="#"/></a></li>
+ 	<li><a href="../pdf/Lebenslauf-SuGao-SoftwareDeveloper.pdf" target="_blank" attributes="#">CV</a></li>
+ 	<li><a href="../pdf/Portfolio-SuGao_2015_HiReso.pdf" target="_blank" attributes="#">Portfolio (German)</a></li>
 </ul>
