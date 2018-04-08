@@ -7,13 +7,13 @@ He is good at designing/engineering electronic circuit, mechanical machine, µC 
 <hr />
 
 <ul>
- 	<li>2016 until now – Full time Web developer, <a href="http://www.interautomation.de/de/" target="_blank">INTERAUTOMATION GmbH,Berlin</a></li>
+ 	<li>2016 until now – full-time Web developer, <a href="http://www.interautomation.de/de/" target="_blank">INTERAUTOMATION GmbH,Berlin</a></li>
  	<li>2014-2015 – freelancing Designer</li>
- 	<li>2014 graduation in Multimedia Design (Master of Art)</li>
+ 	<li>2014 graduation Multimedia Design (Master of Art)</li>
  	<li>2013 internship at <a href="http://www.pluslab.de" target="_blank">Hanke+Schwandt</a>, freelancer (Physical computing based media)</li>
- 	<li>2009 student – Multimedia Design – Burg Giebichenstein Halle</li>
- 	<li>2005 student – Industrial Design – University Northeast Forestry</li>
- 	<li>1986 born in Da Lian</li>
+ 	<li>2009 student – Multimedia Design – <a href="http://www.burg-halle.de" target="_blank">Burg Giebichenstein Halle</a></li>
+ 	<li>2005 student – Industrial Design – <a href="http://en.nefu.edu.cn/" target="_blank">University Northeast Forestry</a></li>
+ 	<li>1986 born in <a href="https://en.wikipedia.org/wiki/Dalian" target="_blank">Da Lian</a></li>
 </ul>
 <h3>Contact</h3>
 
