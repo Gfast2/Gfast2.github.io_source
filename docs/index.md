@@ -11,5 +11,6 @@ These are my favorite Mottos:
 <ul>
 <li><i>Being always interested in continiously learning new things.</i></li>
 <li><i>Smile because you are designed to.</i></li>
+<li><i>Good engineer deliever.</i></li>
 </ul>
 
