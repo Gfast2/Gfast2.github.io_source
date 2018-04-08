@@ -3,6 +3,9 @@ site_name: gao-su.com
 pages:
     - Home: index.md
     - Projects: projects.md
+    - WIP:
+        - HD44780 Driver: hd44780driver.md
+        - BMP280 Driver: bmp280driver.md
     - About: about.md
     - MkDocs: mkdocs.md
 
