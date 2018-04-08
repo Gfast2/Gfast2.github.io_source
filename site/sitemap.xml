@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-01-25</lastmod>
+     <lastmod>2018-04-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,31 +12,15 @@
     
     <url>
      <loc>/projects/</loc>
-     <lastmod>2018-01-25</lastmod>
+     <lastmod>2018-04-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
-    <url>
-     <loc>/hd44780driver/</loc>
-     <lastmod>2018-01-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/bmp280driver/</loc>
-     <lastmod>2018-01-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
     
     <url>
      <loc>/about/</loc>
-     <lastmod>2018-01-25</lastmod>
+     <lastmod>2018-04-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -44,7 +28,7 @@
     
     <url>
      <loc>/mkdocs/</loc>
-     <lastmod>2018-01-25</lastmod>
+     <lastmod>2018-04-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
