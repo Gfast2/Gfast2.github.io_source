@@ -1,4 +1,4 @@
-Su Gao is a full-time software developer based in Berlin Germany.He has a Multimedia Design Master (Master of Arts) and a Industrial Design Bachelor (Bachelor of engineering).He is interested in user experience design, interactive design and physical computing.He is good at designing/engineering electronic circuit, mechanical design, µC & Webapp programming.
+Su Gao is a full-time software developer based in Berlin Germany. He has a Multimedia Design Master (Master of Arts) and a Industrial Design Bachelor (Bachelor of engineering). He is interested in user experience design, interactive design and physical computing. He is good at designing/engineering electronic circuit, mechanical design, µC & Webapp programming.
 <h3>Résumé</h3>
 
 <hr />
